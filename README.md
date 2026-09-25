@@ -1,0 +1,2 @@
+# Week-8-Final-analytics-package-dashboard-and-project-closure
+Week 8: Final analytics package, dashboard, and project closure  - Added final compound risk segmentation report and dashboard - Consolidated validated findings from Weeks 5-7 into final KPI set - Documented honest cross-track collaboration status with Data Science - Added final video presentation - Updated README with full project summary
